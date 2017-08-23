@@ -1,0 +1,25 @@
+{
+  "name": "persona-trainer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m41highway/persona-trainer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/m41highway/persona-trainer/issues"
+  },
+  "homepage": "https://github.com/m41highway/persona-trainer#readme",
+  "dependencies": {
+    "moment": "^2.18.1",
+    "natural": "^0.5.4",
+    "recursive-readdir-sync": "^1.0.6",
+    "striptags": "^3.0.1"
+  }
+}
